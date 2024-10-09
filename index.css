@@ -5,8 +5,8 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background: url("Umucuruzi.jpeg") no-repeat left center fixed,
-    /* Left background image */ url("red-onions11.jpg") no-repeat right center
+  background: URL("Umucuruzi.jpeg") no-repeat left center fixed,
+    /* Left background image */ URL("red-onions11.jpg") no-repeat right-center
       fixed; /* Right background image */
   background-size: 35% 100%, 65% 100%; /* Ensuring both images take 50% of the screen width */
   color: #333;
